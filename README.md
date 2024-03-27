@@ -1,2 +1,2 @@
 # QrCode
-Qr Code challznge
+Qr Code challenge
